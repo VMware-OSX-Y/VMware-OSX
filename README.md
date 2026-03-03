@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/348690/m/vmware-fusion-screenshot.png?v=1668796275" alt="VMware screenshot"/>
+  <img src="https://www.techspot.com/images2/downloads/bigimage/2023/2023-10-25-image.jpg" alt="VMware screenshot"/>
 </p>
 
 ---
@@ -39,12 +39,6 @@ Productive dual-platform work through performance optimization allocates system 
 - <a href="#">Enterprise</a> management capabilities centralized VM administration
 - Performance <a href="#">optimization</a> allocating system resources efficiently
 - <a href="#">Cross-platform</a> development testing software multiple OS environments
-
----
-
-<p align="center">
-  <img src="https://www.techspot.com/images2/downloads/bigimage/2023/2023-10-25-image.jpg" alt="VMware screenshot"/>
-</p>
 
 ---
 
